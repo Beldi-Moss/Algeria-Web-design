@@ -264,8 +264,10 @@ aside#sidebar button {
 
     }
       #newsletter {
+          margin : 0 auto;
           text-align:center;
          width : 100%;
+          
      }
     #newsletter button {
 
