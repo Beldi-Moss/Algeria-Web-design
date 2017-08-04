@@ -263,11 +263,12 @@ aside#sidebar button {
     margin-top: 40px;
 
     }
-      #newsletter {
+      section#newsletter {
           padding :0 ;
           margin : 0 auto;
           text-align:center;
          width : 100%;
+          background : white;
           
      }
     #newsletter button {
