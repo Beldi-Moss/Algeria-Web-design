@@ -264,10 +264,14 @@ aside#sidebar button {
         font-size: 35px;
 
     }
-      section#newsletter {
-          padding-left :50% ;
+           #newsletter  {
+                      text-align:center;
+       
+     }
+
+     
+      #newsletter .container {
           margin : 0 auto;
-          text-align:center;
          width : 100%;
           
      }
