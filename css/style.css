@@ -263,7 +263,10 @@ aside#sidebar button {
     margin-top: 40px;
 
     }
-
+      #newsletter {
+          text-align:center;
+         width : 100%;
+     }
     #newsletter button {
 
         display: block;
