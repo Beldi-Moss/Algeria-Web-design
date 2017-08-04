@@ -261,14 +261,14 @@ aside#sidebar button {
      }
     #showcase h1 {
     margin-top: 40px;
+        font-size: 35px;
 
     }
       section#newsletter {
-          padding :0 ;
+          padding-left :50% ;
           margin : 0 auto;
           text-align:center;
          width : 100%;
-          background : white;
           
      }
     #newsletter button {
