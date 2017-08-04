@@ -255,6 +255,9 @@ aside#sidebar button {
         padding-bottom:  20px;
 
     }
+     header li {
+         width : 100%;
+     }
     #showcase h1 {
     margin-top: 40px;
 
